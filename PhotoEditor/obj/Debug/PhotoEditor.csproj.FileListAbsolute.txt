@@ -1,0 +1,59 @@
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Docking.dll
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\Newtonsoft.Json.dll
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.CreateNew.resources
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Form1.resources
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.LayersPanel.resources
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.ProDialog.resources
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.textInput.resources
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.Cache
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe.licenses
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+E:\My Backups\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+E:\My Backups\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Docking.dll
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\Newtonsoft.Json.dll
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\My Backups\PhotoEditor\PhotoEditor\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+E:\My Backups\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csprojResolveAssemblyReference.cache
+E:\My Backups\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.CreateNew.resources
+E:\My Backups\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Form1.resources
+E:\My Backups\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.LayersPanel.resources
+E:\My Backups\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.ProDialog.resources
+E:\My Backups\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+E:\My Backups\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.textInput.resources
+E:\My Backups\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.Cache
+E:\My Backups\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe.licenses
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\Telerik.WinControls.dll
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\Telerik.WinControls.RadDock.dll
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\Telerik.WinControls.UI.dll
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\TelerikCommon.dll
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\Telerik.WinControls.xml
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\Telerik.WinControls.RadDock.xml
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\bin\Debug\Telerik.WinControls.UI.xml
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csprojAssemblyReference.cache
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.CoreCompileInputs.cache
+E:\22ICT28\Semester 1\Software Programming\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.CopyComplete
